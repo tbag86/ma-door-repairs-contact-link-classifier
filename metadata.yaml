@@ -1,5 +1,5 @@
 homepage: "https://www.door-repair.co.uk/"
-documentation: "https://github.com/tbag86/ma-door-repairs-contact-link-classifier#contact-link-classifier"
+documentation: "https://www.door-repair.co.uk/guides/tag-manager-contact-link-classifier/"
 versions:
   - sha: 5b841e8c9469d1860cd560ebefd52134ebafe58a
     changeNotes: Initial release of the phone, email and contact page link classifier.
